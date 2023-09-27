@@ -1,0 +1,86 @@
+[
+    {
+        "id":"423e6ee0-5bb7-4570-8696-fc5ff21a5fc2",
+        "img": "/img/pushini/noski.webp",
+        "nume":"Rustic Plastic Computer",
+        "pret": "$22.00",
+        "categoria":"Clothing"
+    },
+    {
+        "id":"8a3fd088-c3b2-4604-a46c-a1e9960c3a78",
+        "img": "/img/pushini/makeup.webp",
+        "nume":"Sleek Rubber Car",
+        "pret": "$45.00",
+        "categoria":"Accesorries"
+    },
+    {
+        "id":"d51d3ed8-1659-434e-a532-8900b8650994",
+        "img": "/img/pushini/tiramisu.webp",
+        "nume":"Licensed Fresh Car",
+        "pret": "$15.00",
+        "categoria":"Toys"
+    },
+    {
+        "id":"91089eca-0ba6-4b58-b3b4-787853650209",
+        "img": "/img/pushini/Pusheen_S_mores_Squisheen_027_web_600x.webp",
+        "nume":"Generic Fresh Car",
+        "pret": "$27.00",
+        "categoria":"Toys"
+    },
+    {
+        "id":"1e1e53a1-7c63-4bbe-a260-0f0db4b84ac5",
+        "img": "/img/pushini/termcana.webp",
+        "nume":"Ergonomic Soft Car",
+        "pret":"$53.00",
+        "categoria":"Accesorries"
+    },
+    {
+        "id":"1ba8b080-b5cc-4c1c-b7b5-ceffc20b4e19",
+        "img": "/img/pushini/notebook.webp",
+        "nume":"Refined Wooden Car",
+        "pret":"$33.00",
+        "categoria":"Books"
+    },
+    {
+        "id":"e3dcf86f-73c4-45df-8dde-12a1dc3bd5f2",
+        "img": "/img/pushini/Rainbow_Cookie_Plush_009_web_600x.webp",
+        "nume":"Unbranded Rubber Mouse",
+        "pret":"$43.00",
+        "categoria":"Toys"
+    },
+    {
+        "id":"91c4c370-51d6-4049-9fe9-3d437988d9b2",
+        "img": "/img/pushini/tricou.webp",
+        "nume":"Ergonomic Soft Cheese",
+        "pret":"$23.00",
+        "categoria":"Clothing"
+    },
+    {
+        "id":"e875bf6a-5186-475d-8324-9332dfa5d573",
+        "img": "/img/pushini/bluza.webp",
+        "nume":"Intelligent Metal Bacon",
+        "pret":"$18.00",
+        "categoria":"Clothing"
+    },
+    {
+        "id":"e3dcf86f-73c4-45df-8dde-12a1dc3bd5f2",
+        "img": "/img/pushini/cana.webp",
+        "nume":"Unbranded Rubber Mouse",
+        "pret":"$36.00",
+        "categoria":"Accesorries"
+    },
+    {
+        "id":"91c4c370-51d6-4049-9fe9-3d437988d9b2",
+        "img": "/img/pushini/notebook2.webp",
+        "nume":"Ergonomic Soft Cheese",
+        "pret":"$24.00",
+        "categoria":"Books"
+    },
+    {
+        "id":"e875bf6a-5186-475d-8324-9332dfa5d573",
+        "img": "/img/pushini/notebook3.webp",
+        "nume":"Intelligent Metal Bacon",
+        "pret":"$20.00",
+        "categoria":"Books"
+    }
+]

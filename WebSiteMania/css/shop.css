@@ -1,0 +1,147 @@
+#page-header{
+    background-image: url("/img/banner/2b.jpg");
+    width: 100%;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position:  center;
+    background-color:#FCF0E4;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 14px;
+}
+#page-header h2, #page-header p{
+    margin-left: 50px;
+    color:white;
+}
+#pagination{
+    text-align: center;
+}
+#pagination a{
+    text-decoration: none;
+    background-color: #f9bf29;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color:white;
+    font-weight: 600;
+}
+#pagination a i{
+    font-size: 16px;
+    font-weight: 600;
+}
+#produs-div{
+    /* width: 1000px; */
+    margin: 0 auto;
+    display: flex;
+    gap: 10px;
+}
+aside{
+    border: 1px solid lightgray;
+    border-radius:20px;
+    width: 200px;
+    min-height: 100vh;
+}
+main{
+    border: 1px solid lightgray;
+    width: 100%;
+    border-radius:20px;
+    min-height: 100vh;
+}
+.produse{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+
+}
+.produse .pro{
+    padding: 10px;
+    flex: 1;
+    min-width: 200px;
+    box-shadow: 0px 0px 3px #e0e0e0;
+}
+#form-filter{
+    padding: 10px;
+    width: 100%;
+}
+#form-filter label{
+    font-weight: bold;
+}
+.mb-3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+#form-filter button{
+    background-color:#f9bf29;
+    color:#fff;
+}
+.categorii{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: left;
+    padding: 10px;
+    gap: 10px;
+}
+.categorie{
+    border-left: 1px solid #e0e0e0;
+    padding: 2px;
+}
+
+
+
+/* Page for Product */
+#prodetails{
+    display: flex;
+    margin-top: 20px;
+
+}
+#prodetails .single-pro-image{
+    width: 40%;
+    margin-right: 50px;
+}
+.small-img-group{
+    display: flex;
+    justify-content: space-between;
+    /* width: 545px; */
+}
+.small-img-col{
+    flex-basis: 24%;
+    cursor:pointer;
+}
+#prodetails .single-pro-details{
+    width: 50%;
+    padding-top: 30px;
+}
+#prodetails .single-pro-details h4{
+    padding: 40px 0 20px 0;
+}
+#prodetails .single-pro-details h2{
+    font-size: 26px;
+}
+#prodetails .single-pro-details select{
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+#prodetails .single-pro-details input{
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+#prodetails .single-pro-details input:focus{
+    outline: none;
+}
+#prodetails .single-pro-details button{
+    background: #f9bf29 ;
+    color: white;
+}
+#prodetails .single-pro-details span{
+    line-height: 25px;
+}
